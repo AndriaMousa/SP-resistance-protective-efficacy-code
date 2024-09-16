@@ -1,0 +1,130 @@
+﻿study,country,site,drug,T,N_I_tripl_new,N_I_quadr_new,N_I_quint_new,N_I_sext_new,N_I_undeterm_new,N_I_tripl,N_I_quadr,N_I_quint,N_I_sext,N_I_undeterm,N_uninf
+Nahum_2009,Benin,Cotonou,CQ,0,,0,,,,,0,,,,79
+Nahum_2009,Benin,Cotonou,CQ,14,,0,,,,,0,,,,61
+Nahum_2009,Benin,Cotonou,CQ,28,,0,,,,,0,,,,42
+Nahum_2009,Benin,Cotonou,CQ,42,,1,,,,,1,,,,40
+Nahum_2009,Benin,Cotonou,CQ,63,,1,,,,,2,,,,39
+Nahum_2009,Benin,Cotonou,CQ,90,,2,,,,,4,,,,37
+Nahum_2009,Benin,Cotonou,SPAS,0,,0,,,,,0,,,,81
+Nahum_2009,Benin,Cotonou,SPAS,14,,0,,,,,0,,,,81
+Nahum_2009,Benin,Cotonou,SPAS,28,,0,,,,,0,,,,75
+Nahum_2009,Benin,Cotonou,SPAS,42,,1,,,,,1,,,,73
+Nahum_2009,Benin,Cotonou,SPAS,63,,2,,,,,3,,,,68
+Nahum_2009,Benin,Cotonou,SPAS,90,,5,,,,,8,,,,63
+Nahum_2009,Benin,Cotonou,SP,0,,0,,,,,0,,,,77
+Nahum_2009,Benin,Cotonou,SP,14,,0,,,,,0,,,,61
+Nahum_2009,Benin,Cotonou,SP,28,,0,,,,,0,,,,44
+Nahum_2009,Benin,Cotonou,SP,42,,0,,,,,0,,,,43
+Nahum_2009,Benin,Cotonou,SP,63,,0,,,,,0,,,,41
+Nahum_2009,Benin,Cotonou,SP,90,,2,,,,,2,,,,38
+Gesase_2009,Tanzania,Tanga,SP,0,,,0,0,0,,,0,0,0,87
+Gesase_2009,Tanzania,Tanga,SP,1,,,0,0,0,,,0,0,0,81
+Gesase_2009,Tanzania,Tanga,SP,2,,,0,0,0,,,0,0,0,64
+Gesase_2009,Tanzania,Tanga,SP,3,,,0,0,0,,,0,0,0,55
+Gesase_2009,Tanzania,Tanga,SP,7,,,4,0,1,,,4,0,1,48
+Gesase_2009,Tanzania,Tanga,SP,14,,,2,5,2,,,6,5,3,37
+Gesase_2009,Tanzania,Tanga,SP,21,,,3,5,2,,,9,10,5,23
+Gesase_2009,Tanzania,Tanga,SP,28,,,5,1,2,,,14,11,7,13
+Bell_2008,Malawi,Blantyre,SPCQ,0,,,0,,,,,0,,,113
+Bell_2008,Malawi,Blantyre,SPCQ,7,,,0,,,,,0,,,113
+Bell_2008,Malawi,Blantyre,SPCQ,14,,,0,,,,,0,,,99
+Bell_2008,Malawi,Blantyre,SPCQ,28,,,9,,,,,9,,,85
+Bell_2008,Malawi,Blantyre,SPCQ,42,,,13,,,,,22,,,61
+Bell_2008,Malawi,Blantyre,SPAQ,0,,,0,,,,,0,,,114
+Bell_2008,Malawi,Blantyre,SPAQ,7,,,0,,,,,0,,,114
+Bell_2008,Malawi,Blantyre,SPAQ,14,,,0,,,,,0,,,96
+Bell_2008,Malawi,Blantyre,SPAQ,28,,,0,,,,,0,,,95
+Bell_2008,Malawi,Blantyre,SPAQ,42,,,4,,,,,4,,,82
+Bell_2008,Malawi,Blantyre,SP,0,,,0,,,,,0,,,114
+Bell_2008,Malawi,Blantyre,SP,7,,,0,,,,,0,,,114
+Bell_2008,Malawi,Blantyre,SP,14,,,9,,,,,9,,,79
+Bell_2008,Malawi,Blantyre,SP,28,,,23,,,,,32,,,39
+Bell_2008,Malawi,Blantyre,SP,42,,,3,,,,,35,,,19
+Bell_2008,Malawi,Blantyre,SPAS,0,,,0,,,,,0,,,114
+Bell_2008,Malawi,Blantyre,SPAS,7,,,0,,,,,0,,,114
+Bell_2008,Malawi,Blantyre,SPAS,14,,,3,,,,,3,,,101
+Bell_2008,Malawi,Blantyre,SPAS,28,,,17,,,,,20,,,73
+Bell_2008,Malawi,Blantyre,SPAS,42,,,6,,,,,26,,,55
+Barnes_2008_Mabuza_2005_PEADD,South Africa,Mpumalanga,SP,0,0,,0,,0,0,,0,,0,152
+Barnes_2008_Mabuza_2005_PEADD,South Africa,Mpumalanga,SP,7,0,,0,,0,0,,0,,0,143
+Barnes_2008_Mabuza_2005_PEADD,South Africa,Mpumalanga,SP,21,0,,0,,0,0,,0,,0,138
+Barnes_2008_Mabuza_2005_PEADD,South Africa,Mpumalanga,SP,28,0,,0,,0,0,,0,,0,135
+Barnes_2008_Mabuza_2005_PEADD,South Africa,Mpumalanga,SP,42,0,,0,,0,0,,0,,0,132
+Barnes_2006_NMMSB,Mozambique,Bela Vista,SP,0,0,,0,,0,0,,0,,0,25
+Barnes_2006_NMMSB,Mozambique,Bela Vista,SP,7,0,,0,,0,0,,0,,0,21
+Barnes_2006_NMMSB,Mozambique,Bela Vista,SP,28,1,,0,,0,1,,0,,0,20
+Barnes_2006_NMMSB,Mozambique,Bela Vista,SP,42,0,,0,,0,1,,0,,0,19
+Barnes_2006_RZENT,Mozambique,Bela Vista,SP,0,0,,0,,0,0,,0,,0,49
+Barnes_2006_RZENT,Mozambique,Bela Vista,SP,7,0,,0,,0,0,,0,,0,43
+Barnes_2006_RZENT,Mozambique,Bela Vista,SP,14,0,,0,,0,0,,0,,0,40
+Barnes_2006_RZENT,Mozambique,Bela Vista,SP,21,0,,0,,0,0,,0,,0,38
+Barnes_2006_RZENT,Mozambique,Bela Vista,SP,28,0,,0,,2,0,,0,,2,34
+Barnes_2006_RZENT,Mozambique,Bela Vista,SP,42,0,,0,,1,0,,0,,3,30
+Barnes_2006_RHXNJ,Mozambique,Namaacha,SP,0,0,,0,,0,0,,0,,0,97
+Barnes_2006_RHXNJ,Mozambique,Namaacha,SP,7,0,,0,,0,0,,0,,0,81
+Barnes_2006_RHXNJ,Mozambique,Namaacha,SP,14,0,,1,,0,0,,1,,0,78
+Barnes_2006_RHXNJ,Mozambique,Namaacha,SP,21,0,,1,,1,0,,2,,1,73
+Barnes_2006_RHXNJ,Mozambique,Namaacha,SP,28,0,,1,,2,0,,3,,3,63
+Barnes_2006_RHXNJ,Mozambique,Namaacha,SP,42,0,,0,,2,0,,3,,5,60
+Allen_2009_EKDTF,Mozambique,Magude,SP,0,0,,0,,0,0,,0,,0,93
+Allen_2009_EKDTF,Mozambique,Magude,SP,7,0,,0,,2,0,,0,,2,79
+Allen_2009_EKDTF,Mozambique,Magude,SP,14,0,,0,,1,0,,0,,3,76
+Allen_2009_EKDTF,Mozambique,Magude,SP,21,0,,0,,4,0,,0,,7,70
+Allen_2009_EKDTF,Mozambique,Magude,SP,28,0,,0,,3,0,,0,,10,65
+Allen_2009_EKDTF,Mozambique,Magude,SP,35,0,,0,,0,0,,0,,10,65
+Allen_2009_EKDTF,Mozambique,Magude,SP,42,0,,0,,3,0,,0,,13,61
+Allen_2009_EKDTF,Mozambique,Boane,SP,0,0,,0,,0,0,,0,,0,41
+Allen_2009_EKDTF,Mozambique,Boane,SP,7,0,,0,,1,0,,0,,1,33
+Allen_2009_EKDTF,Mozambique,Boane,SP,14,0,,0,,1,0,,0,,2,32
+Allen_2009_EKDTF,Mozambique,Boane,SP,21,0,,0,,1,0,,0,,3,30
+Allen_2009_EKDTF,Mozambique,Boane,SP,28,0,,0,,1,0,,0,,4,27
+Allen_2009_EKDTF,Mozambique,Boane,SP,35,0,,0,,0,0,,0,,4,26
+Allen_2009_EKDTF,Mozambique,Boane,SP,42,0,,0,,0,0,,0,,4,26
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,0,0,,0,,0,0,,0,,0,40
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,7,0,,0,,0,0,,0,,0,34
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,14,0,,0,,0,0,,0,,0,33
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,21,0,,0,,0,0,,0,,0,30
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,28,0,,0,,0,0,,0,,0,29
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,35,0,,0,,0,0,,0,,0,29
+Allen_2009_EKDTF,Mozambique,Namaacha,SP,42,0,,0,,0,0,,0,,0,27
+Allen_2009_EKDTF,Mozambique,Catuane,SP,0,0,,0,,0,0,,0,,0,24
+Allen_2009_EKDTF,Mozambique,Catuane,SP,7,0,,0,,0,0,,0,,0,24
+Allen_2009_EKDTF,Mozambique,Catuane,SP,14,0,,0,,0,0,,0,,0,24
+Allen_2009_EKDTF,Mozambique,Catuane,SP,21,0,,0,,0,0,,0,,0,24
+Allen_2009_EKDTF,Mozambique,Catuane,SP,28,0,,0,,0,0,,0,,0,24
+Allen_2009_EKDTF,Mozambique,Catuane,SP,35,0,,0,,0,0,,0,,0,21
+Allen_2009_EKDTF,Mozambique,Catuane,SP,42,0,,0,,0,0,,0,,0,21
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,0,0,,0,,0,0,,0,,0,86
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,7,0,,0,,0,0,,0,,0,81
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,14,0,,0,,2,0,,0,,2,79
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,21,0,,0,,3,0,,0,,5,74
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,28,0,,0,,0,0,,0,,5,72
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,35,0,,0,,1,0,,0,,6,70
+Allen_2009_EKDTF,Mozambique,Magude,SPAS,42,0,,0,,1,0,,0,,7,68
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,0,0,,0,,0,0,,0,,0,63
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,7,0,,0,,0,0,,0,,0,55
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,14,0,,0,,0,0,,0,,0,54
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,21,0,,0,,0,0,,0,,0,52
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,28,0,,0,,1,0,,0,,1,50
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,35,0,,0,,0,0,,0,,1,48
+Allen_2009_EKDTF,Mozambique,Boane,SPAS,42,0,,0,,0,0,,0,,1,46
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,0,0,,0,,0,0,,0,,0,38
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,7,0,,0,,0,0,,0,,0,33
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,14,0,,0,,0,0,,0,,0,31
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,21,0,,0,,1,0,,0,,1,30
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,28,0,,0,,0,0,,0,,1,29
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,35,0,,0,,0,0,,0,,1,29
+Allen_2009_EKDTF,Mozambique,Namaacha,SPAS,42,0,,0,,0,0,,0,,1,29
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,0,0,,0,,0,0,,0,,0,23
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,7,0,,0,,0,0,,0,,0,23
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,14,0,,0,,0,0,,0,,0,23
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,21,0,,0,,0,0,,0,,0,22
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,28,0,,0,,0,0,,0,,0,22
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,35,0,,0,,0,0,,0,,0,22
+Allen_2009_EKDTF,Mozambique,Catuane,SPAS,42,0,,0,,0,0,,0,,0,21
+KZN,South Africa,KwaZulu-Natal,SP,0,0,,0,,0,0,,0,,0,129
+KZN,South Africa,KwaZulu-Natal,SP,7,0,,0,,0,0,,0,,0,57
+KZN,South Africa,KwaZulu-Natal,SP,14,0,,0,,0,0,,0,,0,39
+KZN,South Africa,KwaZulu-Natal,SP,21,0,,0,,0,0,,0,,0,23
+KZN,South Africa,KwaZulu-Natal,SP,28,0,,0,,2,0,,0,,2,11
+KZN,South Africa,KwaZulu-Natal,SP,42,0,,0,,2,0,,0,,4,8
