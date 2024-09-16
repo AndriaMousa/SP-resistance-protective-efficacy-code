@@ -4,14 +4,12 @@
 
 #### load packages
 
-# library(matrixStats)
-# library(gdata)
 library(ggplot2)
-# library(cowplot)
+library(cowplot)
 library(rstan)
-# library(bayesplot)
+library(bayesplot)
 library(dplyr)
-# library(DescTools)
+library(DescTools)
 
 ###################################################################
 
@@ -326,7 +324,7 @@ model<- stan("deterministic_combined_all.stan",
              control = list(adapt_delta = 0.99, stepsize = 0.01, max_treedepth = 15))
 
 
-#saveRDS(model, "model_all_combined_10000iters.RData")
+saveRDS(model, "model_all_combined_10000iters.RData")
 
 model<-readRDS("model_all_combined_10000iters.RData") 
 

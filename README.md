@@ -3,27 +3,28 @@
  
 ## Overview
 This repository contains the code used to analyse data on new infections from sulfadoxine-pyrimethamine (SP) alone or in combination with artesunate (AS). 
-The corresponding scientific article is available at: https://dx.doi.org/10.2139/ssrn.4856036
+The corresponding scientific article is available at: https://dx.doi.org/10.2139/ssrn.4856036 .
+
 The code and data to reproduce all figures presented in main text, and supplementary information of the associated publication is available within this repository.
 Andria Mousa, Gina Cuomo-Dannenburg, Hayley A. Thompson, David J. Bell, Umberto D’Alessandro,  Roly Gosling, Alain Nahum, Karen I. Barnes, Jaishree Raman, Lesley Workmann, Yong See Foo, Jennifer A. Flegg, Emma Filtenborg Hocke, Helle Hansson, Ana Chopo-Pizarro, Khalid B. Beshir, Michael Alifrangis, R. Matthew Chico, Colin J. Sutherland, Lucy C. Okell, Cally Roper
  
 
 ## Repo Contents
 - [data](./data): this folder includes the data required to reproduce the analysis and results. This includes **combined_data.csv** (new infection data for all studies) and **day0_frequencies**. It also includes **Data_dictionary.doc**.
-- **deterministic_combined_all.stan**: this file is the deterministic model file writtern in rstan. 
+- **deterministic_combined_all.stan**: this file is the deterministic model file written in rstan. 
 - **R_script_combined_all.R** : this file is the R script which pools and analyses data from all studies using **deterministic_combined_all.stan**. This includes:
- --reading in data and converting to model inputs 
- --running stan model 
- --checking model diagnostics (including R-hat and ESS)
- --traceplots and correlation plots (not presented in the manuscript)
- --summarizing model outputs: median and 95%Credible Intervals of estimated parameters (presented in the manuscript and supplementary materials)
- --calculation of the mean duration of protection using estimated shape and scale parameters (and median & 95%Credible intervals across 10000 iterations)
-- **model_all_combined.RData**: this file stores the model (MCMC) outputs produced using **R_script_combined_all.R**. 
+ - reading in data and converting to model inputs 
+ - running stan model (note this may take anywhere ranging from a few mins to over an hour, depending on computing power and number of iterations - here 10,000 iterations used)
+ - checking model diagnostics (including R-hat and ESS)
+ - traceplots and correlation plots (not presented in the manuscript)
+ - summarizing model outputs: median and 95% Credible Intervals of estimated parameters (presented in the manuscript and supplementary materials)
+ - calculation of the mean duration of protection using estimated shape and scale parameters (and median & 95%Credible intervals across 10000 iterations)
+- **model_all_combined.RData**: this file stores the model (MCMC) outputs produced using **R_script_combined_all.R**. (not available due to file size restrictions but running **R_script_combined_all.R** should produce this file)
 - **Figures**: this folder contains code related to figures presented in the main manuscript and supplementary infromation. These are using both data and outputs from the model and include:
- -- reading in model predictions (from stan model generated quantities)
- -- for each arm and site generates predicted proportion reinfected vs observed proportion reinfected (by genotype)
- -- supplementary plot of day 0 frequency vs posterior distribution of genotype frequency by trial site
- -- plots of protective efficacy over time since treatment (for SP/SPAS and additional arms where available)
+ - reading in model predictions (from stan model generated quantities)
+ - for each arm and site generates predicted proportion reinfected vs observed proportion reinfected (by genotype)
+ - supplementary plot of day 0 frequency vs posterior distribution of genotype frequency by trial site
+ - plots of protective efficacy over time since treatment (for SP/SPAS and additional arms where available)
 
  
 ## Software Requirements
@@ -34,4 +35,5 @@ Running the code contained in this repository requires the following:
  ## Installation Guide and Instructions for Use
 The following instructions require that all the relevant `R` packages have been installed by the user and that rstan has been installed. To replicate and reproduce the analyses presented in this paper, do the following: 
 1. Clone this Github repository and make a local copy on your desktop.
-2. Run the `R` code scripts for the particular part of the analysis you are trying to reproduce.
+2. Run **R_script_combined_all.R** code script to store model outputs.
+2. Run **Figures** code script to generate figures presented in the manuscript.
