@@ -4,7 +4,8 @@
 ## Overview
 This repository contains the code used to analyse data on new infections from sulfadoxine-pyrimethamine (SP) alone or in combination with artesunate (AS). 
 The code and data to reproduce all figures presented in main text, and supplementary information of the associated publication is available within this repository.
-Andria Mousa, Gina Cuomo-Dannenburg, Hayley A. Thompson, David J. Bell, Umberto D’Alessandro,  Roly Gosling, Alain Nahum, Karen I. Barnes, Jaishree Raman, Lesley Workmann, Yong See Foo, Jennifer A. Flegg, Emma Filtenborg Hocke, Helle Hansson, Ana Chopo-Pizarro, Khalid B. Beshir, Michael Alifrangis, R. Matthew Chico, Colin J. Sutherland, Lucy C. Okell, Cally Roper
+
+Authors: Andria Mousa, Gina Cuomo-Dannenburg, Hayley A. Thompson, David J. Bell, Umberto D’Alessandro,  Roly Gosling, Alain Nahum, Karen I. Barnes, Jaishree Raman, Lesley Workmann, Yong See Foo, Jennifer A. Flegg, Emma Filtenborg Hocke, Helle Hansson, Ana Chopo-Pizarro, Khalid B. Beshir, Michael Alifrangis, R. Matthew Chico, Colin J. Sutherland, Lucy C. Okell, Cally Roper
  
 
 ## Repo Contents
@@ -31,4 +32,3 @@ Running the code contained in this repository requires the following:
 The following instructions require that all the relevant `R` packages have been installed by the user and that rstan has been installed. To replicate and reproduce the analyses presented in this paper, do the following: 
 1. Clone this Github repository and make a local copy on your desktop.
 2. Run the `R` code scripts for the particular part of the analysis you are trying to reproduce.
-
